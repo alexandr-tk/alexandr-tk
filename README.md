@@ -1,4 +1,9 @@
-## Hi there 👋
+I'm intrested in learning more about LLM fine-tuning and machine learning.
+
+Currently I am working on the socratic writing tutor which is a fine-tuned AI model built on real professors' feedback data: inlinetutor.com
+
+In free time I love to work on personal ventures and solve competitive programming problems.
+
 
 <!--
 **alexandr-tk/alexandr-tk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
