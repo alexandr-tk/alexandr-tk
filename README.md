@@ -17,16 +17,16 @@
 
 <br />
 
-## 🚀 About Me
+## About Me
 I am a software engineer and entrepreneur from **Kazakhstan**, currently studying at **Lafayette College**. 
-* 🔭 **Currently building:** **Inline** (AI-powered writing assistant & data platform).
-* 🌱 **Previously:** Co-Founder & CTO at **ReFreshly** (Food-waste reduction startup).
-* 🏆 **Awards:** Top 30 Semifinalist, **Samsung Solve for Tomorrow** (2024).
-* ⚡ **Interests:** Fine-tuning, Machine Learning, Distributed Systems, Computer Vision, Drone Tech, and Startups.
+* **Currently building:** **Inline** (AI-powered writing assistant & data platform).
+* **Previously:** Co-Founder & CTO at **ReFreshly** (Food-waste reduction startup).
+* **Awards:** Top 30 Semifinalist, **Samsung Solve for Tomorrow** (2024).
+* **Interests:** Fine-tuning, Machine Learning, Distributed Systems, Computer Vision, Drone Tech, and Startups.
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 | Project | Role | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ I am a software engineer and entrepreneur from **Kazakhstan**, currently studyin
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
