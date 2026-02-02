@@ -25,17 +25,17 @@ I am a software engineer and entrepreneur from **Kazakhstan**, currently based i
   * [**Inline**](https://github.com/alexandr-tk/inline-web) – A Socratic logic engine for academic writing (Non-generative AI).
   * [**ReFreshly**](https://github.com/alexandr-tk/refreshly-web) – A mobile marketplace connecting users with discounted surplus food.
 * **Awards:** Top 30 Semifinalist, **Samsung Solve for Tomorrow** (2024).
-* **Interests:** Fine-tuning, Machine Learning, Distributed Systems, Computer Vision, and Drone Tech.
+* **Interests:** Fine-tuning, Machine Learning, Distributed Systems, and Drone Tech.
 
 
 ## Featured Projects
 
 | Project | Role | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
+| [**Sirius**](https://github.com/alexandr-tk/sirius) | **Developer** | Open-source Blender add-on for drone shows. | `Python` `Blender API` |
 | [**Inline**](https://github.com/alexandr-tk/inline-web) | **Founder** | Socratic logic engine (Public Web Client). Core reasoning engine is Proprietary. | `React` `Python` `AI` |
 | [**ReFreshly**](https://github.com/alexandr-tk/refreshly-web) | **Co-Founder / CTO** | Mobile marketplace for surplus food. | `React Native` `Firebase` |
 | [**Silent Talk**](https://github.com/alexandr-tk/silent-talk) | **Lead Engineer** | Real-time ASL-to-Speech translator. **Samsung Top 30**. | `OpenCV` `MediaPipe` `Scikit` |
-| [**Sirius**](https://github.com/alexandr-tk/sirius) | **Developer** | Open-source Blender add-on for drone shows. | `Python` `Blender API` |
 
 
 ## Tech Stack
