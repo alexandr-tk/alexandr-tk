@@ -2,7 +2,7 @@
   <h1>Hi, I'm Alex Tkachyov 👋</h1>
   <p>
     <strong>BS Computer Science & BA Math (Statistics) @ Lafayette College</strong><br>
-    Founder & Software Engineer building high-impact solutions.
+    Founder & Software Engineer
   </p>
 
   <p>
@@ -19,13 +19,13 @@
 
 ## About Me
 
-I am a software engineer and entrepreneur from **Kazakhstan**, currently based in the US. My work focuses on **statistical theory**, **complex algorithms**, and **user-centric product design**.
+I am a software engineer and entrepreneur from Kazakhstan, currently based in the US.
 
 * **Currently building:**
   * [**Inline**](https://github.com/alexandr-tk/inline-web) – A Socratic logic engine for academic writing (Non-generative AI).
   * [**ReFreshly**](https://github.com/alexandr-tk/refreshly-web) – A mobile marketplace connecting users with discounted surplus food.
 * **Awards:** Top 30 Semifinalist, **Samsung Solve for Tomorrow** (2024).
-* **Interests:** Fine-tuning, Machine Learning, Distributed Systems, and Drone Tech.
+* **Interests:** Fine-tuning, Machine Learning, Blender, Distributed Systems, and Drone Tech.
 
 
 ## Featured Projects
